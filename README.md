@@ -12,6 +12,8 @@ A plugin that adds custom bindings for twitter bootstrap plugins such as tooltip
 
 [Download](https://raw.github.com/billpull/knockout-bootstrap/master/build/knockout-bootstrap.min.js)
 
+[CDNJS]
+
 #### Packages
 npm-install knockout-bootstrap
 
